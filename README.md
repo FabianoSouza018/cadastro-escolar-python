@@ -33,13 +33,13 @@ cadastro-escolar-python/
 ├── cadastro_escolar.py
 └── README.md
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Fabiano
 
 Técnico em Desenvolvimento de Sistemas
 IFSC
 
-📝 Observação
+## 📝 Observação
 
 Projeto desenvolvido para fins acadêmicos e de aprendizado durante o curso de Técnico em Desenvolvimento de Sistemas.
